@@ -1,2 +1,2 @@
 # Secant-Method
-The Secant method is used to find the roots of a function by drawing secant lines
+The Secant method is used to find the roots of a function. This is used to approximate roots by drawing secant lines. I start with two initial guesses for the x-values and then I used the root finding equation to find another x-value. Using this new x-value, we continue this proces until we get to a number that is close enough to the actual value. The eqauation involves the two points as well as their respective y-values.
